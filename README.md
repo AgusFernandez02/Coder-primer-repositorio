@@ -17,6 +17,10 @@ específicas para un proyecto en particular, sin afectar al sistema global
 `.\.venv\Scripts\activate` (Windows Powershell)
 `source .venv/bin/activate` (Linux o Mac)
 
+¿Como crear requeriments.txt?
+`pip freeze >> requirements.txt`
+
+
 ## Instalación Django
 `pip install django`
 
