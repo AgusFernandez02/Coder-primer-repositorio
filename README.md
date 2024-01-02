@@ -20,7 +20,8 @@ específicas para un proyecto en particular, sin afectar al sistema global
 ¿Como crear requeriments.txt?
 `pip freeze >> requirements.txt`
 
-
+¿Como instalar paquetes desde requeriments.txt?
+``
 ## Instalación Django
 `pip install django`
 
